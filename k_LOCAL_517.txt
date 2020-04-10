@@ -2,7 +2,6 @@ ncjnjcnfkvjbfjbn123456
 
 
 kurtika
-<<<<<<< HEAD
 =======
 ncjnjcnfkvjbfjbn
 
@@ -10,8 +9,3 @@ ncjnjcnfkvjbfjbn
 
 
 Sinha
-=======
-
-
-65989745
->>>>>>> new_branch
